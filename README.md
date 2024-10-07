@@ -2,6 +2,8 @@
 
 Summary of Flight Delay Analysis Report
 
+Programming Language: Python, R
+
 This report analyzes various factors contributing to flight delays, focusing on arrival delays as the primary metric. Key findings include:
 
 Question 1: Timing for Minimizing Delays
